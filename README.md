@@ -1,5 +1,5 @@
 - 👋 &nbsp;Hi, I’m Ilya
-- 👀 &nbsp;I’m interested in creating things with the best design and beautiful code.   
+- 👀 &nbsp;I’m interested in creating things with the best design and beautiful code
 - 📫 &nbsp;nzv@pm.me
 
 <!---
